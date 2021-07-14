@@ -1,0 +1,25 @@
+{
+  "name": "strive-students-portal",
+  "version": "1.0.0",
+  "description": "Portal where students can show their profile and recruiters can connect with students. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulbalu93/strive-students-portal.git"
+  },
+  "keywords": [
+    "job",
+    "portal",
+    "students",
+    "recruiters"
+  ],
+  "author": "Paul Maliakel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulbalu93/strive-students-portal/issues"
+  },
+  "homepage": "https://github.com/paulbalu93/strive-students-portal#readme"
+}
